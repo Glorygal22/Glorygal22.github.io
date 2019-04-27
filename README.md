@@ -3,12 +3,12 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title> 04/24 Demo </title>
+    <title> Lisa Hu </title>
 </head>
 
 <body>
-    <h1><try this out>04/24 Demo</try again></h1>
-    <h2>Still pretty big but not as big</h2>
+    <h1><try this out>Lisa Hu</try again></h1>
+    <h2>I'm creating a bio for my very first github page</h2>
 
     <a href="https://www.google.com/">
         <img src="https://cdn4.vectorstock.com/i/1000x1000/76/28/very-sleepy-pig-with-a-cup-of-hot-coffee-vector-22427628.jpg"width="100px"/>
