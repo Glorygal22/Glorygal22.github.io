@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    <h1><try this out>Lisa Hu</try again></h1>
+    <h1>Lisa Hu</try again></h1>
     <h2>I'm creating a bio for my very first github page</h2>
 
     <a href="https://www.google.com/">
